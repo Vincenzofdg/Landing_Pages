@@ -1,11 +1,11 @@
 ## Description:
-A Web Page for selling clothes online. The web page is designed to showcase the T-Shirt Shop brand and provide a full costumer support during the online shop.
+Ideas for Pages Layouts
 
 ## Starting Project:
 1. Cloning the repository
--  `git clone git@github.com:Vincenzofdg/T_Shirt.git`
+-  `git clone git@github.com:Vincenzofdg/Landing_Pages.git`
 2. Enter in the directory folder
-- `cd T_Shirt`
+- `cd Landing_Pages`
 3. Iniciate `server.mjs`
 - `node server.mjs`
 
